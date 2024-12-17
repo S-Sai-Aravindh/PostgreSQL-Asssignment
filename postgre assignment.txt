@@ -1,4 +1,4 @@
-Where class
+Where clause
 
 
 1. Select first_name , last_name from customer where address_id > 20 ;
